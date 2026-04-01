@@ -3,7 +3,7 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-I'm **Muskan Tiwari**. I am a technical lead from Bengaluru, India. I'm currently working at @Mresults as a Tech Lead.<br>
+I'm **Muskan Tiwari**. I am a technical lead from Bengaluru, India. I'm currently working at @Mresult.<br>
 Currently I'm busy getting the hang of RAG.
 
 🔭 I’m currently working on Document intelligence compliance platform <br>🤝 I’m looking for help with Machine Learning using Rust<br>🌱 I’m currently learning RAG pipeline and Natural Language Processing<br>💬 Ask me about Python, Competitive Programming, AWS <br>⚡ Fun fact: I talk a lot but I'm introvert😅 <br><br>
